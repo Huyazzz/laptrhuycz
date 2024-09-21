@@ -1,11 +1,10 @@
-# laptrhuycz
 !DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<title>hello</title>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Thello wg</h1>
+<p>fgffgffg</p>
 
 </body>
 </html>
